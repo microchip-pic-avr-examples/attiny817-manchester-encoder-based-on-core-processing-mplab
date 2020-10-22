@@ -3,7 +3,7 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplab.project.manchester-encoding-based-on-core-processing-mplab",
+        "name": "com.microchip.mcu8.mplabx.project.manchester-encoding-based-on-core-processing-mplab",
         "version": "1.0.0",
         "displayName": "Manchester Encoder Based on Core Processing",
         "projectName": "manchester-encoding-based-on-core-processing-mplab",
@@ -52,8 +52,6 @@
             "TCB"
         ],
         "keywords": [
-            "",
-            ""
         ],
         "additionalData": {
             "longDescription": {
