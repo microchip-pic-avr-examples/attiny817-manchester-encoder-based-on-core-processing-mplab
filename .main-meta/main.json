@@ -3,19 +3,19 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplabx.project.manchester-encoding-based-on-core-processing-mplab",
-        "version": "1.0.0",
+        "name": "com.microchip.mcu8.mplabx.project.attiny817-manchester-encoder-based-on-core-processing-mplab",
+        "version": "1.0.1",
         "displayName": "Manchester Encoder Based on Core Processing",
-        "projectName": "manchester-encoding-based-on-core-processing-mplab",
+        "projectName": "attiny817-manchester-encoder-based-on-core-processing-mplab",
         "shortDescription": "This example implements a Manchester encoder using core processing and a single TCB peripheral.",
         "ide": {
-            "name": "MPLABX",
-            "semverRange": ">=5.40"
+            "name": "MPLAB X",
+            "semverRange": ">=5.40.0"
         },
         "compiler": [
             {
                 "name": "XC8",
-                "semverRange": "^2.29"
+                "semverRange": "^2.29.0"
             }
         ],
         "dfp": {
@@ -38,7 +38,6 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "START",
             [
                 "Peripherals",
                 "TCB"
@@ -52,6 +51,8 @@
             "TCB"
         ],
         "keywords": [
+            "START",
+            "Encoder"
         ],
         "additionalData": {
             "longDescription": {
